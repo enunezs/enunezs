@@ -1,5 +1,7 @@
 
-Oi! 👋 I’m Emanuel Nunez, a Roboticist and Electronics Engineer that really likes software. 🦾🤖
+## Oi! 👋 
+
+I’m Emanuel Nunez, a Roboticist and Electronics Engineer that really likes software. 🦾🤖
 
 I'm currently based in Bristol, UK, doing a joint MSc in Robotics at University of Bristol and University of West England. 🇬🇧
 
@@ -12,9 +14,8 @@ I'm currently based in Bristol, UK, doing a joint MSc in Robotics at University 
 **Fav. Projects:**
 
 - I like customizing my [Linux PC](https://github.com/tinyAtlas/dotfiles) 💻 and [Android Phone](https://github.com/tinyAtlas/Phone_Customization) 📱
-- I like making games 🎮! Checkout [my game](https://smallatlas.itch.io/olha)
- for Extra Credits 2020 Gamejam (Art and sound by my dear brothers) 
-
+- I like making games 🎮! Checkout [my entry](https://smallatlas.itch.io/olha)
+ for Extra Credits 2020 Gamejam 
 
 
 
