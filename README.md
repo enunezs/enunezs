@@ -3,9 +3,9 @@ Oi! 👋 I’m Emanuel Nunez, a Roboticist and Electronics Engineer that really 
 
 I'm currently based in Bristol, UK, doing a joint MSc in Robotics at University of Bristol and University of West England. 🇬🇧
 
-**Fav. Languages
+**Fav. Languages**
 
--  Matlab, symbolic and optimization toolboxes for research applications, robotics and control systems
+-  Matlab and Simulink, symbolic and optimization toolboxes for research applications, robotics and control systems
 -  Python, for data processing and machine learning.
 -  C++, C and a *bit* of assembly for [robots](https://github.com/tinyAtlas/Dynamic-Recalibration-of-the-Odometry), microcontrollers and processors.
 
