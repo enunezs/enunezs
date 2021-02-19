@@ -7,9 +7,9 @@ I'm currently based in Bristol, UK, doing a joint MSc in Robotics at University 
 
 **Fav. Languages**
 
--  Matlab and Simulink, symbolic and optimization toolboxes for research applications, robotics and control systems
--  Python, for data processing and machine learning.
--  C++, C and a *bit* of assembly for [robots](https://github.com/tinyAtlas/Dynamic-Recalibration-of-the-Odometry), microcontrollers and processors.
+-  `Matlab` and `Simulink`, symbolic and optimization toolboxes for research applications, robotics and control systems
+-  `Python`, for data processing and machine learning.
+-  `C++`, `C` and a *bit* of `assembly` for [robots](https://github.com/tinyAtlas/Dynamic-Recalibration-of-the-Odometry), microcontrollers and processors.
 
 **Fav. Projects:**
 
