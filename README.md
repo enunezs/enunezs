@@ -1,7 +1,7 @@
 
 ## Oi! 👋 
 
-I’m Emanuel Nunez, a Roboticist and Electronics Engineer that really likes software. 🦾🤖
+I’m Emanuel Nunez, a Roboticist and Electronics Engineer that likes software. 🦾🤖
 
 I'm currently based in Bristol, UK, doing a joint MSc in Robotics at University of Bristol and University of West England. 🇬🇧
 
