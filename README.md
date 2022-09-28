@@ -15,9 +15,10 @@ I'm currently based in Bristol, UK, doing a joint PhD in Robotics at University 
 
 **Fav. Projects:**
 
+- I like making games 🎮! Checkout my entries for the [GMTK2022](https://smallatlas.itch.io/dice-bite) and [Extra Credits 2020](https://smallatlas.itch.io/olha) Gamejams! 
 - I like customizing my [Linux PC](https://github.com/tinyAtlas/dotfiles) 💻 and [Android Phone](https://github.com/tinyAtlas/Phone_Customization) 📱
 - I like old music, so I wrote a script to make [lots of Spotify playlists from old charts data](https://github.com/RobotKitchen/SpotifyTimeMachine) 🎶
-- I like making games 🎮! Checkout my entries for the [GMTK2022](https://smallatlas.itch.io/dice-bite) and [Extra Credits 2020](https://smallatlas.itch.io/olha) Gamejams! 
+
 
 
 
